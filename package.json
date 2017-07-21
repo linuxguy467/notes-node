@@ -8,6 +8,10 @@
   },
   "author": "Matthew Hemingway",
   "license": "ISC",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/linuxguy467/notes-node.git"
+  },
   "dependencies": {
     "lodash": "^4.17.4"
   }
