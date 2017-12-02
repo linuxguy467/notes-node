@@ -1,2 +1,11 @@
-#modules
-node_modules
+#project modules
+node_modules/
+
+#playground folder
+playgrounds/
+
+#lock files
+package-lock.json
+
+#data file
+notes-data.json
